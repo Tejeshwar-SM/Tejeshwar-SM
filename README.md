@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Tejeshwar</h1>
 
 <div align="center">
-  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hacker.png" width="30px">
 </div>
 
 
