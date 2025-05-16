@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hacker.png" width="30px">
+  <img src="https://ishan-rest.vercel.app/svg/banner/github" width="100%" alt="Github Banner">
 </div>
 
 
