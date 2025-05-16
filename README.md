@@ -83,6 +83,6 @@
 <!-- Matrix-style animation with your name -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hacker+%7C+Developer+%7C+Problem+Solver;Building+FocusBuddy.me;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Developer+%7C+Problem+Solver;Building+FocusBuddy.me;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
 </div>
