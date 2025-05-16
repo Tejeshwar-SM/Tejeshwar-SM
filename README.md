@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=7" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=9" alt="Tech Stack" />
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
