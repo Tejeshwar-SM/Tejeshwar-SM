@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://dynamic-repo-badges.vercel.app/api/badge?text=TEJESHWAR%20S%20M&animation=matrix&theme=hacker" width="100%" alt="Hacker Banner">
    <img src="https://ishan-rest.vercel.app/svg/banner/hacker/Tejeshwar-SM" width="100%" alt="Hacker Banner">
 </div>
 
