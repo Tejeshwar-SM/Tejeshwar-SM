@@ -33,15 +33,16 @@
 <table>
   <tr>
     <td>
-      ![Stats Overview](https://raw.githubusercontent.com/Tejeshwar-SM/github-stats-transparent/output/generated/overview.svg)
+      <img src="https://github-readme-stats.vercel.app/api?username=Tejeshwar-SM&show_icons=true&theme=matrix&hide_border=true&hide_rank=true" alt="GitHub Stats" />
     </td>
     <td>
-      ![Most Used Languages](https://raw.githubusercontent.com/Tejeshwar-SM/github-stats-transparent/output/generated/languages.svg)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwar-SM&theme=matrix&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejeshwar-SM&theme=matrix&hide_border=true" width="100%" alt="Activity Graph">
+
 
 ## 🏆 GitHub Trophies
 
