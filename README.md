@@ -14,9 +14,9 @@
 
   ## 💻 About Me
 
-  - 🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
-  - 🌱 Learning NextJS and Redux
-  - ⚡ Turning complex problems into elegant solutions
+   🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
+   🌱 Learning NextJS and Redux
+   ⚡ Turning complex problems into elegant solutions
 
 </div>
 
