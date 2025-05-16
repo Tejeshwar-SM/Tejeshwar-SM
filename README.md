@@ -25,11 +25,11 @@
 
   ## 🛠️ Tech Stack
   
-  <img src="https://skillicons.dev/icons?i=ts,js,mongodb,express,react,nodejs,tailwind,python,aws,docker,bash,linux,nginx,mysql,&perline=4" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,mongodb,express,react,nodejs,tailwind,aws,docker,redis,bash,linux,nginx,mysql,&perline=4" alt="Tech Stack" />
   
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Django-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </p>
 
