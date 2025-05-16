@@ -2,51 +2,79 @@
   <img src="https://dynamic-repo-badges.vercel.app/api/badge?text=TEJESHWAR%20S%20M&animation=matrix&theme=hacker" width="100%" alt="Hacker Banner">
 </div>
 
-# Hello, I'm Tejeshwar
+<h1 align="center">Hello, I'm Tejeshwar</h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hacker.png" width="30px">
+</div>
 
+<p align="center"><i>Building digital solutions with a hacker mindset</i></p>
 
-## 💻 About Me
+<div align="center">
 
-- 🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
-- 🌱 Learning NextJS and Redux
+  ## 💻 About Me
 
-## 🛠️ Tech Stack
+  - 🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
+  - 🌱 Learning NextJS and Redux
+  - ⚡ Turning complex problems into elegant solutions
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=9" alt="Tech Stack" />
+</div>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<div align="center">
 
-## 🔗 Connect With Me
+  ## 🛠️ Tech Stack
+  
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=4" alt="Tech Stack" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </p>
 
-<a href="https://x.com/Prsnecadmiral">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/tejeshwar-singh-71b115229/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tejeshwar-SM&show_icons=true&theme=matrix&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwar-SM&theme=matrix&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+  ## 🔗 Connect With Me
+  
+  <p>
+    <a href="https://x.com/Prsnecadmiral">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/tejeshwar-singh-71b115229/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejeshwar-SM&theme=matrix&hide_border=true" width="100%" alt="Activity Graph">
+</div>
 
+<div align="center">
 
-## 🏆 GitHub Trophies
+  ## 📊 GitHub Stats
+  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tejeshwar-SM&show_icons=true&theme=matrix&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwar-SM&theme=matrix&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejeshwar-SM&theme=matrix&hide_border=true" width="85%" alt="Activity Graph">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tejeshwar-SM&theme=matrix&no-frame=true&column=7" alt="GitHub Trophies" width="100%">
+</div>
+
+<div align="center">
+
+  ## 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejeshwar-SM&theme=matrix&no-frame=true&column=7&row=1&margin-w=15" alt="GitHub Trophies" width="85%">
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tejeshwar-SM&color=00FF00&style=flat-square" alt="Profile Views">
