@@ -2,19 +2,18 @@
   <img src="https://dynamic-repo-badges.vercel.app/api/badge?text=TEJESHWAR%20S%20M&animation=matrix&theme=hacker" width="100%" alt="Hacker Banner">
 </div>
 
-# Hello, I'm Tejeshwar <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hacker.png" width="30px">
+# Hello, I'm Tejeshwar
 
-> Building digital solutions with a hacker mindset
+
 
 ## 💻 About Me
 
 - 🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
-- 🌱 Learning NextJS and enhancing my full-stack capabilities
-- ⚡ I enjoy turning complex problems into elegant solutions
+- 🌱 Learning NextJS and Redux
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=4" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=7" alt="Tech Stack" />
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -34,10 +33,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tejeshwar-SM&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" />
+      ![Stats Overview](https://raw.githubusercontent.com/Tejeshwar-SM/github-stats-transparent/output/generated/overview.svg)
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeshwar-SM&theme=matrix&hide_border=true" alt="GitHub Streak" />
+      ![Most Used Languages](https://raw.githubusercontent.com/Tejeshwar-SM/github-stats-transparent/output/generated/languages.svg)
     </td>
   </tr>
 </table>
