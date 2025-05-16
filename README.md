@@ -5,10 +5,10 @@
 <h1 align="center">Hello, I'm Tejeshwar</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/hacker.png" width="30px">
+  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 </div>
 
-<p align="center"><i>Building digital solutions with a hacker mindset</i></p>
+
 
 <div align="center">
 
