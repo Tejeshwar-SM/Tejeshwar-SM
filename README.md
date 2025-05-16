@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dynamic-repo-badges.vercel.app/api/badge?text=TEJESHWAR%20S%20M&animation=matrix&theme=hacker" width="100%" alt="Hacker Banner">
+  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 </div>
 
 <h1 align="center">Hello, I'm Tejeshwar</h1>
@@ -14,9 +14,9 @@
 
   ## 💻 About Me
 
-   🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me)
-   🌱 Learning NextJS and Redux
-   ⚡ Turning complex problems into elegant solutions
+   🔭 Currently building [FocusBuddy.me](https://www.focusbuddy.me) <br>
+   🌱 Learning NextJS and Redux <br>
+   ⚡ Turning complex problems into elegant solutions <br>
 
 </div>
 
