@@ -25,7 +25,7 @@
 
   ## 🛠️ Tech Stack
   
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,express&perline=4" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,mongodb,express,react,nodejs,tailwind,python,aws,docker,bash,linux,nginx,mysql,&perline=4" alt="Tech Stack" />
   
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
