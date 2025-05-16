@@ -1,5 +1,5 @@
 <div align="center">
-  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+  <img src="https://dynamic-repo-badges.vercel.app/api/badge?text=TEJESHWAR%20S%20M&animation=matrix&theme=hacker" width="100%" alt="Hacker Banner">
 </div>
 
 <h1 align="center">Hello, I'm Tejeshwar</h1>
